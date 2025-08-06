@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "product-chain-1.png",
+      "title": "Front-End",
+      "description": "I  a Fronted Developer builds  the user interface and user experience (UI/UX) of a website or application  using programming languages like HTML,CSS, and javascript.l create visually appealing and  interactive web pages that users interact with directly."
+    },
+    {
+      "id": "2",
+      "src": "tag-1.png",
+      "title": "Back-End",
+      "description": "A skilled Backend Developer with expertise in database management ,specializing in MongoDB and MySQL.Proficient in designing ,implementing ,and optimizing database structure  to support  responsive  and efficient applications. "
+    },
+    {
+      "id": "3",
+      "src": "feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "A creative and user-centered designer responsible for crafting intuitive and visually appealing digital experiences.Skilled in designing user interfaces (UI) and user experience (UX) that meet user needs  and business goals."
+    },
+    {
+      "id": "4",
+      "src": "feather-pen-1.png",
+      "title": "Marketing",
+      "description": "A results-driven marketing expert responsible for developing and executing marketing strategies to reach target audiences, build brand awareness,and drive business growth"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "parking.jpg",
+      "title": "Parking Space Finder App",
+      "description": "A mobile app that helps users discover,locate,and book various types of spaces including study areas,event venues,and parking lots.With an intuitive interface and reliable features,Space Finder simplifies the process of findng and reserving spaces ,saving users time and effort.",
+      "link": "https://project-j2ua.vercel.app/"
+    },
+    {
+      "id": "2",
+      "src": "payroll.jpg",
+      "title": "Payroll Management System",
+      "description": "A comprehensive payroll management system designed to streamline and automate payroll processes for businesses of all sizes.This system simplifies employee compensation management,ensuring accurate calculated salaries,withholding taxes ,and generating payslips",
+      "link": "https://payroll-red.vercel.app/"
+    },
+    {
+      "id": "3",
+      "src": "ffga.jpg",
+      "title": "Future Foward Generation Ambassador App (FFGA)",
+      "description": "Empowering the next generation of leaders! The Future Forward Generation Ambassador App connects, inspires, and equips young leaders with the tools, resources, and network to shape a brighter future.",
+      "link": "https://ffga.vercel.app/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
